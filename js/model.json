@@ -1,0 +1,77 @@
+{
+    "0": {"barcode_value": 0,
+"model_name": "city_street",
+"model_url": "./assets/city_street/scene.gltf",
+"position": { "x": 0, "y": 0, "z": 0 },
+"rotation": { "x": -90, "y": 0, "z": 0 },
+"color" : "rgb(0,0,255)",
+"width" : 19,
+"height" : 15
+},
+  "1" : {"barcode_value": 1,
+"model_name": "office_building",
+"model_url":"./assets/office_building/scene.gltf",
+"position": { "x": 3, "y": 0, "z": 0 },
+"rotation": { "x": 0, "y": -90, "z": 0 },
+"scale": { "x": 1, "y": 1, "z": 1 },
+"placement_position": { "x": 1.5998, "y": 1.1, "z": 5.16068 },
+"placement_rotation": { "x": 0, "y": -90, "z": 0 },
+"placement_scale": { "x": 0.3, "y": 0.3, "z": 0.3 }
+},
+
+  "2" : {"barcode_value": 2,
+  "model_name": "city_hotel",
+  "model_url":"./assets/melodia_city_hotel/scene.gltf",
+  "position": { "x": 4, "y": 0, "z": 0 },
+  "rotation": { "x": 0, "y": -90, "z": 0 },
+  "scale": { "x": 1, "y": 1, "z": 1 },
+  "placement_position": { "x": 2.5998, "y": 1.1, "z": 5.16068 },
+  "placement_rotation": { "x": 0, "y": -90, "z": 0 },
+  "placement_scale": { "x": 0.3, "y": 0.3, "z": 0.3 }
+  },
+
+  "3" : {"barcode_value": 3,
+    "model_name": "low_poly_building",
+    "model_url":"./assets/low_poly_building/scene.gltf",
+    "position": { "x": 5, "y": 0, "z": 0 },
+    "rotation": { "x": 0, "y": -90, "z": 0 },
+    "scale": { "x": 1, "y": 1, "z": 1 },
+    "placement_position": { "x": 3.5998, "y": 1.1, "z": 5.16068 },
+    "placement_rotation": { "x": 0, "y": -90, "z": 0 },
+    "placement_scale": { "x": 0.3, "y": 0.3, "z": 0.3 }
+    },
+
+"4" : {"barcode_value": 4,
+"model_name": "car",
+"model_url":"./assets/cyberpunk_car/scene.gltf",
+"position": { "x": 0, "y": -2.2, "z": 0 },
+"rotation": { "x": 0, "y": -90, "z": 0 },
+"scale": { "x": 3, "y": 3, "z": 3 },
+"placement_position": { "x": 1.22957, "y": -2.2, "z": 5.7 },
+"placement_rotation": { "x": 0, "y": -90, "z": 0 },
+"placement_scale": { "x": 0.004, "y": 0.004, "z": 0.004 }
+},
+
+"5" : {"barcode_value": 5,
+  "model_name": "fur_tree",
+  "model_url":"./assets/fur_tree/scene.gltf",
+  "position": { "x": 0, "y": -2.2, "z": 0 },
+  "rotation": { "x": 0, "y": -90, "z": 0 },
+  "scale": { "x": 3, "y": 3, "z": 3 },
+  "placement_position": { "x": 0.5998, "y": -2.2, "z": 5.7 },
+  "placement_rotation": { "x": 0, "y": -90, "z": 0 },
+  "placement_scale": { "x": 0.004, "y": 0.004, "z": 0.004 }
+  },
+
+  "6" : {"barcode_value": 6,
+    "model_name": "the_sun",
+    "model_url":"./assets/the_sun/scene.gltf",
+    "position": { "x": 0, "y": -2.2, "z": 0 },
+    "rotation": { "x": 0, "y": -90, "z": 0 },
+    "scale": { "x": 3, "y": 3, "z": 3 },
+    "placement_position": { "x": 1.22957, "y": 5.2, "z": 5.7 },
+    "placement_rotation": { "x": 0, "y": -90, "z": 0 },
+    "placement_scale": { "x": 0.004, "y": 0.004, "z": 0.004 }
+    }
+
+}
